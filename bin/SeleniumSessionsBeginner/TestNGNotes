@@ -1,0 +1,24 @@
+TestNG -- unit test framework
+TDD -- Test driven development(drive testcases with the help of testNG framework)
+
+
+Purpose-- design testcases in a systematic way
+--htmp reports
+--diff annotations
+--priorities/sequences
+--dependancy
+--grouping
+--data provider
+
+
+testNG -- open source, free
+JAR files
+
+--Java unit testing framework
+http://cbeust.com/eclipse/
+
+Never write main method in testng class
+
+
+--annotation -- starts with @
+--each and every annotation associate with a method
