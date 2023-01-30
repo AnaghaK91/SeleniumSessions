@@ -52,6 +52,11 @@ public class GoogleTest {
 	public void test3() {
 		System.out.println("Test3");
 	}
+	@Test(priority=7,groups="Test")
+	public void test4() {
+		System.out.println("Test4");
+	}
+	
 	@AfterMethod
 	public void closeBrowser() {
 		driver.quit();
